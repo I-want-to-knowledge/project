@@ -1,0 +1,1 @@
+18,48 * * * * sh /usr/local/tcboot/nginx-monitoring/start_monitoring-ip.sh >> /usr/local/tcboot/nginx-monitoring/logs/cron.log  2>&1 & 
